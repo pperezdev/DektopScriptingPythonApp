@@ -1,0 +1,25 @@
+{
+    "actions": [
+        {
+            "name": "Verify Test",
+            "description" : "Developping test",
+            "fct": "test",
+            "args" :[
+                "i am alive ..."
+            ],
+            "kwargs":{
+
+            }
+        },
+        {
+            "name": "Get Mouse position",
+            "description" : "get mouse position",
+            "fct": "rec",
+            "args" :[
+            ],
+            "kwargs":{
+
+            }
+        }
+    ]
+}
